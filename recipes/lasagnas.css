@@ -1,0 +1,29 @@
+img
+{
+    width: 200px;
+    height: auto;
+}
+h1
+{
+    font-size: 25px;
+    text-align: center;
+    font-style: oblique;
+    color: grey
+
+}
+.first,
+.second
+{
+    font-size: 12px;
+    background-color: red;
+}
+.first
+{
+    color: yellow;
+    text-align: center;
+}
+.second
+{
+    color: azure;
+    text-align: right;
+}

@@ -1,0 +1,12 @@
+.heading
+{
+    font-size: 23px;
+    background-color: blue;
+    color: red;
+    text-align: center;
+}
+li
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
