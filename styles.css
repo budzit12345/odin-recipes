@@ -1,12 +1,23 @@
-.heading
-{
-    font-size: 23px;
-    background-color: blue;
-    color: red;
+* {
+    background-color: aqua;
+}
+
+.heading {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+ul {
     text-align: center;
 }
-li
-{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 13px;
+
+li {
+    display: inline-block;
+    font-size: 15px;
+    color: chocolate;
+    padding: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
